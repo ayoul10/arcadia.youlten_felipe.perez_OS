@@ -1,0 +1,4 @@
+Should we (read+delete+save) and then send? or can we read+send+delete for each file? cus maybe there is problems in the connection and we get stuck
+-Rename danny-file-processor.h to file_processor
+
+How tf do the "connection request" frames work? Do we check if the source and type are correct? or do we simply check for anomalies in the frame?
